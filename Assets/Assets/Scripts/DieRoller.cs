@@ -108,7 +108,7 @@ public class DiceRoller : MonoBehaviour
         rollResults.Add(result);
         diceText.text = string.Join("+", rollResults);
 
-        if (rollResults.Count == diceCount) // Check if all dice have stopped
+        if (rollResults.Count == rolledDice.Count) // Check if all dice have stopped
         {
             int total = rollResults.Sum();
             totalText.text = "" + total;
