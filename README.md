@@ -20,7 +20,7 @@ A versatile and interactive DnD Dice Roller application built with Unity, design
 ### Installation
 
 1. **Clone the repository**:
-`git clone https://github.com/yourusername/albardon-dice-roller.git`
+`git clone https://github.com/behluluysal/albardon-dnd-dice-tool.git`
 
 2. **Open the project in Unity**:
 
