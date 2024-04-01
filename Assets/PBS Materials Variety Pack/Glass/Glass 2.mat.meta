@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ad34f47c4966ee647bce96892c9d4e5c
+labels:
+- Window
+- Glass
+timeCreated: 1433196357
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 40112
+  packageName: PBR Materials Sampler Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/PBS Materials Variety Pack/Glass/Glass 2.mat
+  uploadId: 521211

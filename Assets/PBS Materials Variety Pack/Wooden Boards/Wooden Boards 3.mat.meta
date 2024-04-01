@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a43c0f7d26d9d7a4487fa0e9c9175f17
+labels:
+- Wood
+- Wooden
+- Boards
+- Board
+- Floor
+- Hardwood
+timeCreated: 1432760351
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 40112
+  packageName: PBR Materials Sampler Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/PBS Materials Variety Pack/Wooden Boards/Wooden Boards 3.mat
+  uploadId: 521211
